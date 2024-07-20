@@ -1,0 +1,42 @@
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.deps.json
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\refint\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.genruntimeconfig.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\calculatorCs\calculatorCs\obj\Debug\net6.0\ref\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.deps.json
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\bin\Debug\net6.0\calculatorCs.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\refint\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\calculatorCs.genruntimeconfig.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects and Works\calculatorCs\calculatorCs\obj\Debug\net6.0\ref\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\bin\Debug\net6.0\calculatorCs.exe
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\bin\Debug\net6.0\calculatorCs.deps.json
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\bin\Debug\net6.0\calculatorCs.runtimeconfig.json
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\bin\Debug\net6.0\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\bin\Debug\net6.0\calculatorCs.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\calculatorCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\calculatorCs.AssemblyInfoInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\calculatorCs.AssemblyInfo.cs
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\calculatorCs.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\refint\calculatorCs.dll
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\calculatorCs.pdb
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\calculatorCs.genruntimeconfig.cache
+C:\Users\Yusuf\OneDrive\Masaüstü\Main Desktop\Projects\calculatorApps\csCalculator\calculatorCs\obj\Debug\net6.0\ref\calculatorCs.dll
